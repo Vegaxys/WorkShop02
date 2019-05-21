@@ -615,3 +615,103 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.21-10.43.10:873][ 30]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Inventaire/ObjetStructure.ObjetStructure
 [2019.05.21-10.43.12:557][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/ObjetStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset" SILENT=true
 [2019.05.21-10.43.12:567][128]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetStructureED5D4DC64F4A4E8BD5DB1AAC57D30A8E.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset'
+[2019.05.21-10.43.54:915][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestInventaire" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/TestInventaire.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.21-10.43.54:954][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.05.21-10.43.55:119][461]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/TestInventaire5B5D493747E9024BDD3C22AE9975D0E0.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/TestInventaire.umap'
+[2019.05.21-10.46.33:971][159]LogSlate: Took 0.005141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.21-10.47.55:089][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/ObjetStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset" SILENT=true
+[2019.05.21-10.47.55:110][136]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetStructure5D54A02D4FC3F97A53BD02B861D7ACC1.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset'
+[2019.05.21-10.47.55:483][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/ObjetStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset" SILENT=true
+[2019.05.21-10.47.55:497][157]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetStructureB7EBB3274D22064CC76E81A33267ED76.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset'
+[2019.05.21-10.47.55:632][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/ObjetStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset" SILENT=true
+[2019.05.21-10.47.55:647][164]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetStructure54FFEF5E4277F8E0AFA4DC905AA1844A.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset'
+[2019.05.21-10.48.10:822][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/ObjetStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset" SILENT=true
+[2019.05.21-10.48.10:835][ 73]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetStructureB12C04DF4FB7B519A7CD0EB9C10C27C8.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset'
+[2019.05.21-10.48.10:988][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/ObjetStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset" SILENT=true
+[2019.05.21-10.48.11:000][ 81]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetStructure65165B29439A8B2D073AA5B90CF30166.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/ObjetStructure.uasset'
+[2019.05.21-10.48.52:090][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventaire/Objet/Objet.Objet
+[2019.05.21-10.48.52:534][633]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:1).
+[2019.05.21-10.48.54:983][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/Objet/Objet" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset" SILENT=true
+[2019.05.21-10.48.54:996][777]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetC88952604678EFF549286DB33A48D731.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset'
+[2019.05.21-10.49.08:925][610]BlueprintLog: New page: Compile Objet
+[2019.05.21-10.49.09:076][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.05.21-10.49.09:335][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/Objet/Objet" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset" SILENT=true
+[2019.05.21-10.49.09:364][624]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/Objet39AA161B46E0E6BD68DD2386FCBBC0B7.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset'
+[2019.05.21-10.49.54:823][166]BlueprintLog: New page: Compile InventaireComponent
+[2019.05.21-10.49.54:860][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.05.21-10.49.55:254][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.49.55:277][188]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponent4BF6303E4C6CD344966590990753C9AD.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.50.24:680][319]BlueprintLog: New page: Compile InventaireComponent
+[2019.05.21-10.50.24:681][319]LogClass: Warning: Type mismatch in InventaireName of InventaireComponent_C - Previous (BoolProperty) Current(TextProperty) for package:  FObjectReader
+[2019.05.21-10.50.24:719][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.05.21-10.50.25:126][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.50.25:140][342]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponent912BD0E445835CA75B7976A672DC3A10.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.50.45:070][810]BlueprintLog: New page: Compile InventaireComponent
+[2019.05.21-10.50.45:106][810]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.05.21-10.50.45:498][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.50.45:514][832]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponentC298D9204C592A62909BFA89C02B7B2D.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.51.38:452][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/EspaceStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/EspaceStructure.uasset" SILENT=true
+[2019.05.21-10.51.38:470][ 86]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/EspaceStructureDA5E66294B2C354C872AC587A4A02070.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/EspaceStructure.uasset'
+[2019.05.21-10.51.38:624][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/EspaceStructure" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/EspaceStructure.uasset" SILENT=true
+[2019.05.21-10.51.38:637][ 94]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/EspaceStructure3921317A48550633D4FF398640F47BAB.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/EspaceStructure.uasset'
+[2019.05.21-10.52.01:519][910]LogSlate: Took 0.007299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.21-10.52.15:705][760]BlueprintLog: New page: Compile InventaireComponent
+[2019.05.21-10.52.15:706][760]LogClass: Warning: Type mismatch in Inventaire of InventaireComponent_C - Previous (IntProperty) Current(StructProperty) for package:  FObjectReader
+[2019.05.21-10.52.15:736][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.05.21-10.52.16:314][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.52.16:329][793]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponent9343D22F4938C5D69F613AB6A39C8692.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.52.29:972][133]BlueprintLog: New page: Compile InventaireComponent
+[2019.05.21-10.52.29:972][133]LogClass: Warning: Type mismatch in Inventaire of InventaireComponent_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.05.21-10.52.30:009][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.05.21-10.52.30:704][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.52.30:718][173]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponent7DAD9D1943B76E4DF2449B8616D097DC.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.52.30:907][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.52.30:923][183]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponent814658394CC6E476670140BE4862A38D.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.52.46:465][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InventaireComponent" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset" SILENT=true
+[2019.05.21-10.52.46:483][409]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InventaireComponent745D0ECA47C80FE0887B3492823C8693.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InventaireComponent.uasset'
+[2019.05.21-10.52.57:797][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.21-10.53.04:752][444]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventaire/Random.Random
+[2019.05.21-10.53.33:852][165]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
+[2019.05.21-10.53.58:000][295]BlueprintLog: New page: Compile PlayerCharacter
+[2019.05.21-10.53.58:175][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.05.21-10.53.58:591][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacter" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2019.05.21-10.53.58:665][315]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/PlayerCharacterE3BBFCDA4682A1D5824BAFBA8EB172CA.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset'
+[2019.05.21-10.54.47:818][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.05.21-10.54.47:818][558]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestInventaire' took 0.038
+[2019.05.21-10.54.47:819][558]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerCharacter] ([1] browsable assets)...
+[2019.05.21-10.54.47:819][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter]
+[2019.05.21-10.54.47:890][558]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/PlayerCharacter_Auto1408AABAF4F0289DE7CC0ECAD8F2776D5.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/Autosaves/Game/Blueprints/PlayerCharacter_Auto1.uasset'
+[2019.05.21-10.54.47:896][558]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventaire/Random] ([1] browsable assets)...
+[2019.05.21-10.54.47:896][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventaire/Random]
+[2019.05.21-10.54.47:896][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/Random" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Saved/Autosaves/Game/Inventaire/Random_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.21-10.54.47:910][558]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/Random_Auto1EDC9C59248EB626EA33455929971711B.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/Autosaves/Game/Inventaire/Random_Auto1.uasset'
+[2019.05.21-10.54.47:915][558]LogFileHelpers: Auto-saving content packages took 0.096
+[2019.05.21-10.54.48:883][616]BlueprintLog: New page: Compile PlayerCharacter
+[2019.05.21-10.54.49:048][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.05.21-10.54.49:876][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacter" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2019.05.21-10.54.49:946][660]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/PlayerCharacter761137D84A8581374A4A4497959B2DD5.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset'
+[2019.05.21-10.54.52:968][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/Random" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Random.uasset" SILENT=true
+[2019.05.21-10.54.52:983][839]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/Random9238B82D46EA0072106D38BEBCFE1FB4.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Random.uasset'
+[2019.05.21-10.55.43:018][ 20]BlueprintLog: New page: Compile InteragirInterface
+[2019.05.21-10.55.43:060][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.05.21-10.55.43:505][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/InteragirInterface" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InteragirInterface.uasset" SILENT=true
+[2019.05.21-10.55.43:525][ 46]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/InteragirInterfaceD0B6C016406911F74DAE909DB1705025.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/InteragirInterface.uasset'
+[2019.05.21-10.56.21:975][671]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.21-10.56.30:504][181]BlueprintLog: New page: Compile Objet
+[2019.05.21-10.56.30:665][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.05.21-10.56.30:923][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/Objet/Objet" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset" SILENT=true
+[2019.05.21-10.56.30:949][195]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetED78773F4D10E7B06C7146B8A6D6BA6C.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset'
+[2019.05.21-10.57.12:832][857]BlueprintLog: New page: Compile Objet
+[2019.05.21-10.57.12:993][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.05.21-10.57.56:700][662]BlueprintLog: New page: Compile Objet
+[2019.05.21-10.57.56:870][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.05.21-10.57.57:207][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventaire/Objet/Objet" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset" SILENT=true
+[2019.05.21-10.57.57:227][681]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/ObjetCC0E0AAC436A7E431B5DDA822F702B78.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Inventaire/Objet/Objet.uasset'
+[2019.05.21-10.58.05:608][181]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.05.21-10.58.06:698][181]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.21-10.59.32:143][197]BlueprintLog: New page: Compile PlayerCharacter
+[2019.05.21-10.59.32:395][197]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.05.21-10.59.32:645][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacter" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2019.05.21-10.59.32:714][208]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/PlayerCharacter68F4ED614615E80A32BB1B888F4A088F.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset'
+[2019.05.21-10.59.33:302][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacter" FILE="../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2019.05.21-10.59.33:379][241]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/WorkShop02/Saved/PlayerCharacter091BF7DD460956EAA762DCB9CA0ED64D.tmp' to '../../../../../../Users/Admin/Desktop/WorkShop02/Content/Blueprints/PlayerCharacter.uasset'
