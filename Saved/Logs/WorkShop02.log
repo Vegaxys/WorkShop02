@@ -661,3 +661,118 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.21-09.51.35:682][539]LogInit: No audio devices found!
 [2019.05.21-09.51.35:766][544]LogInit: No audio devices found!
 [2019.05.21-09.51.35:886][551]LogInit: No audio devices found!
+[2019.05.21-09.55.30:413][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-09.56.27:026][318]LogEditorViewport: Clicking on Actor (LMB): Test_C (Test)
+[2019.05.21-09.56.32:095][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-09.56.40:620][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-09.56.40:737][131]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-09.56.40:754][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.56.40:754][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-09.56.40:755][131]PIE: New page: PIE session: Level (21 mai 2019 13:56:40)
+[2019.05.21-09.56.40:755][131]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2019.05.21-09.56.40:756][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001789s)
+[2019.05.21-09.56.40:757][131]LogAIModule: Creating AISystem for world Level
+[2019.05.21-09.56.40:757][131]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.05.21-09.56.40:757][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.002563s)
+[2019.05.21-09.56.40:793][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.05.21-09.56.40:794][131]LogInit: No audio devices found!
+[2019.05.21-09.56.40:825][131]LogLoad: Game class is 'GameModeBase'
+[2019.05.21-09.56.40:827][131]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2019.05.21-11.56.40
+[2019.05.21-09.56.40:828][131]LogWorld: Bringing up level for play took: 0.001480
+[2019.05.21-09.56.40:842][131]PIE: Play in editor start time for /Game/UEDPIE_0_Level -0,272
+[2019.05.21-09.56.40:842][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.56.49:151][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-09.56.57:398][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-09.57.11:933][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.57.11:989][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-09.57.12:021][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-09.57.12:022][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.57.12:085][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-09.57.12:096][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.05.21-09.57.12:175][750]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.21-09.57.12:939][796]LogEditorViewport: Clicking on Actor (LMB): Test_C (Test)
+[2019.05.21-09.57.14:718][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-09.57.19:136][166]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.21-09.57.19:154][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.57.19:154][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.21-09.57.19:154][166]PIE: New page: PIE session: Level (21 mai 2019 13:57:19)
+[2019.05.21-09.57.19:154][166]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2019.05.21-09.57.19:156][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001644s)
+[2019.05.21-09.57.19:157][166]LogAIModule: Creating AISystem for world Level
+[2019.05.21-09.57.19:157][166]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2019.05.21-09.57.19:157][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.002338s)
+[2019.05.21-09.57.19:188][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.05.21-09.57.19:190][166]LogInit: No audio devices found!
+[2019.05.21-09.57.19:223][166]LogLoad: Game class is 'GameModeBase'
+[2019.05.21-09.57.19:224][166]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2019.05.21-11.57.19
+[2019.05.21-09.57.19:225][166]LogWorld: Bringing up level for play took: 0.001386
+[2019.05.21-09.57.19:238][166]PIE: Play in editor start time for /Game/UEDPIE_0_Level 0,125
+[2019.05.21-09.57.19:238][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.57.23:292][405]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.23:350][406]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.23:366][407]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.23:383][408]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.28:665][713]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.28:688][714]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.28:705][715]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.28:722][716]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.28:739][717]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.32:336][901]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.32:355][902]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.32:379][903]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.32:400][904]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.32:418][905]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.33:459][947]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.33:484][948]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.33:504][949]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.33:525][950]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.35:773][ 25]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.35:802][ 26]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.35:827][ 27]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.35:854][ 28]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.37:256][ 76]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.37:329][ 77]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.39:326][146]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.39:385][147]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.39:716][158]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.39:743][159]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.39:769][160]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.39:791][161]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:099][173]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:123][174]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:149][175]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:172][176]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:197][177]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:506][186]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:533][187]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:559][188]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:588][189]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:857][196]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:887][197]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:913][198]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.40:937][199]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.41:220][207]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.41:253][208]LogBlueprintUserMessages: [PlayerCharacter_C_0] Hello
+[2019.05.21-09.57.42:837][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.57.42:852][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-09.57.42:879][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.21-09.57.42:879][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level.Level:PersistentLevel' has LevelScriptBlueprint '/Game/Level.Level:PersistentLevel.Level' with GeneratedClass '/Game/Level.Level_C' with ClassGeneratedBy '/Game/Level.Level:PersistentLevel.Level'
+[2019.05.21-09.57.42:912][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.21-09.57.42:924][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.05.21-09.57.42:947][258]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.21-09.58.58:090][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.21-10.00.45:115][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.05.21-10.00.45:169][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../../Unreal Projects/WorkShop02/Saved/Autosaves/Game/Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.21-10.00.47:166][392]LogSavePackage: Moving '../../../../../Unreal Projects/WorkShop02/Saved/Level_Auto191B353244A2AD40F25AD9E84F03D1A2C.tmp' to '../../../../../Unreal Projects/WorkShop02/Saved/Autosaves/Game/Level_Auto1.umap'
+[2019.05.21-10.00.47:257][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 2.209
+[2019.05.21-10.00.47:257][392]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.209
+[2019.05.21-10.00.47:263][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerCharacter] ([1] browsable assets)...
+[2019.05.21-10.00.47:263][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter]
+[2019.05.21-10.00.47:263][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerCharacter" FILE="../../../../../Unreal Projects/WorkShop02/Saved/Autosaves/Game/Blueprints/PlayerCharacter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.21-10.00.47:401][392]LogSavePackage: Moving '../../../../../Unreal Projects/WorkShop02/Saved/PlayerCharacter_Auto1D8EDE46F46AD08DFAC7545875D7738A5.tmp' to '../../../../../Unreal Projects/WorkShop02/Saved/Autosaves/Game/Blueprints/PlayerCharacter_Auto1.uasset'
+[2019.05.21-10.00.47:415][392]LogFileHelpers: Auto-saving content packages took 0.152
+[2019.05.21-10.04.12:388][143]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Map)
+[2019.05.21-10.04.13:452][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-10.04.13:472][143]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (Map)
+[2019.05.21-10.04.13:507][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-10.04.21:986][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
