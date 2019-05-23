@@ -585,6 +585,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.23-08.00.39:507][909]LogSlate: Window 'PlayerCharacter' being destroyed
 [2019.05.23-08.02.35:163][678]LogSlate: Window 'Editor Preferences' being destroyed
 [2019.05.23-08.02.35:169][678]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.05.23-08.06.45:175][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.05.23-08.13.26:172][426]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Map)
 [2019.05.23-08.15.42:931][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.23-08.15.43:134][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
