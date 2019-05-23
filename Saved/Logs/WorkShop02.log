@@ -667,3 +667,382 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.23-08.07.54:449][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.05.23-08.07.54:509][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
 [2019.05.23-08.07.54:636][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.05.23-08.11.00:939][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-08.11.01:021][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.11.01:031][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.11.01:031][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.11.01:031][ 21]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:11:01)
+[2019.05.23-08.11.01:031][ 21]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.11.01:033][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001889s)
+[2019.05.23-08.11.01:033][ 21]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.11.01:034][ 21]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2019.05.23-08.11.01:034][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.002737s)
+[2019.05.23-08.11.01:058][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.05.23-08.11.01:066][ 21]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.11.01:124][ 21]LogInit: FAudioDevice initialized.
+[2019.05.23-08.11.01:153][ 21]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.11.01:155][ 21]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.11.01
+[2019.05.23-08.11.01:156][ 21]LogWorld: Bringing up level for play took: 0.001622
+[2019.05.23-08.11.01:170][ 21]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 0,538
+[2019.05.23-08.11.01:171][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.11.07:769][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.11.07:784][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.11.07:813][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.11.07:813][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.11.07:846][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.11.07:856][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.05.23-08.11.07:876][348]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.23-08.11.16:678][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-08.11.19:932][ 64]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Interfaces/SampleUI.SampleUI
+[2019.05.23-08.11.21:060][ 64]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.05.23-08.11.22:895][ 64]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.05.23-08.11.23:680][ 64]LogSlate: Took 0.015216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.23-08.11.25:794][171]LogSlate: Window 'SampleUI' being destroyed
+[2019.05.23-08.11.27:352][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/Manager_UI.Manager_UI
+[2019.05.23-08.11.28:660][261]LogSlate: Took 0.010086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.23-08.13.02:197][585]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.13.02:211][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.13.02:211][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.13.02:211][585]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:13:02)
+[2019.05.23-08.13.02:211][585]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.13.02:214][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002564s)
+[2019.05.23-08.13.02:214][585]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.13.02:215][585]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2019.05.23-08.13.02:215][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.003810s)
+[2019.05.23-08.13.02:628][585]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2019.05.23-08.13.02:637][585]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.13.02:694][585]LogInit: FAudioDevice initialized.
+[2019.05.23-08.13.02:713][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.13.02:747][585]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.13.02:749][585]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.13.02
+[2019.05.23-08.13.02:750][585]LogWorld: Bringing up level for play took: 0.001794
+[2019.05.23-08.13.02:761][585]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.13.02:767][585]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 0,135
+[2019.05.23-08.13.02:767][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.13.02:778][586]LogRenderer: Reallocating scene render targets to support 1016x544 Format 10 NumSamples 1 (Frame:1).
+[2019.05.23-08.13.25:178][287]LogBlueprintUserMessages: [Manager_UI_2] Gain_Life_UI
+[2019.05.23-08.13.25:748][298]LogBlueprintUserMessages: [Manager_UI_2] Gain_Exp_UI
+[2019.05.23-08.13.26:435][311]LogBlueprintUserMessages: [Manager_UI_2] Gain_Exp_UI
+[2019.05.23-08.13.27:242][326]LogBlueprintUserMessages: [Manager_UI_2] Loose_Exp_UI
+[2019.05.23-08.13.27:884][338]LogBlueprintUserMessages: [Manager_UI_2] Loose_Life_UI
+[2019.05.23-08.13.28:268][345]LogBlueprintUserMessages: [Manager_UI_2] Loose_Life_UI
+[2019.05.23-08.13.28:712][353]LogBlueprintUserMessages: [Manager_UI_2] Loose_Life_UI
+[2019.05.23-08.13.29:445][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.13.29:478][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.13.29:525][366]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.13.29:575][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.13.29:575][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.13.29:669][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.05.23-08.13.29:684][367]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.23-08.17.13:943][466]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Bachelor Année 2\Workshop Unreal RPG\Star.png)
+[2019.05.23-08.17.14:048][466]LogTexture: Display: Building textures: Star (BGRA8, 15X16)
+[2019.05.23-08.17.55:628][832]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Blueprints/Interfaces/CP_Star.CP_Star
+[2019.05.23-08.17.56:219][833]LogRenderer: Reallocating scene render targets to support 1524x876 Format 10 NumSamples 1 (Frame:1).
+[2019.05.23-08.18.23:299][387]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Blueprints/Interfaces/CP_Star.CP_Star
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI_C:WidgetTree.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:SampleUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:SampleUI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:SampleUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:SampleUI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:SampleUI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:SampleUI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.05.23-08.19.39:260][780]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Blueprints/Interfaces/SampleUI.SampleUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_43) from referencer (TextBlock /Engine/UMG/Editor/Transient.SPD_Number).  Import failed...
+[2019.05.23-08.19.39:260][780]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_43"''
+[2019.05.23-08.20.20:686][142]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.20.21:210][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.05.23-08.20.54:610][126]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.20.54:664][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.05.23-08.21.13:443][223]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.21.13:496][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.05.23-08.22.21:494][284]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.05.23-08.22.21:529][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Level_Jimmy_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.23-08.22.22:448][284]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_Jimmy_Auto1D4322D9F45D70D588CBB37A425D73B03.tmp' to '../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Level_Jimmy_Auto1.umap'
+[2019.05.23-08.22.22:492][284]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_Jimmy' took 1.041
+[2019.05.23-08.22.22:492][284]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.041
+[2019.05.23-08.22.22:494][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Interfaces/SampleUI] ([1] browsable assets)...
+[2019.05.23-08.22.22:494][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interfaces/SampleUI]
+[2019.05.23-08.22.22:654][284]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/SampleUI_Auto13D5F2E934D00D90BF9F4B58453738137.tmp' to '../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Blueprints/Interfaces/SampleUI_Auto1.uasset'
+[2019.05.23-08.22.22:655][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Interfaces/Star] ([1] browsable assets)...
+[2019.05.23-08.22.22:670][284]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Interfaces/Star.Star]
+[2019.05.23-08.22.22:670][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interfaces/Star]
+[2019.05.23-08.22.22:670][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Star" FILE="../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Blueprints/Interfaces/Star_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.23-08.22.22:690][284]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Star_Auto170251A084C6513C9EF669ABD6A2AF033.tmp' to '../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Blueprints/Interfaces/Star_Auto1.uasset'
+[2019.05.23-08.22.22:690][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Interfaces/CP_Star] ([1] browsable assets)...
+[2019.05.23-08.22.22:699][284]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Blueprints/Interfaces/CP_Star.CP_Star]
+[2019.05.23-08.22.22:699][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interfaces/CP_Star]
+[2019.05.23-08.22.22:700][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/CP_Star" FILE="../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Blueprints/Interfaces/CP_Star_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.23-08.22.22:708][284]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/CP_Star_Auto1EC6C5C7F42FED1008D0246A8D58F7D28.tmp' to '../../../../../Unreal/Git/WorkShop02/Saved/Autosaves/Game/Blueprints/Interfaces/CP_Star_Auto1.uasset'
+[2019.05.23-08.22.22:709][284]LogFileHelpers: Auto-saving content packages took 0.215
+[2019.05.23-08.22.43:826][547]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.22.43:878][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.05.23-08.22.48:698][822]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.22.48:764][822]LogBlueprint: Error: [Compiler SampleUI] Binding: Property ' Text Delegate ' on Widget ' CP_Number ': Binding: 'None' : 'None' was not found on 'Sample UI'.
+[2019.05.23-08.22.48:949][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.05.23-08.22.48:967][822]LogBlueprint: Warning: [Compiler SampleUI] [0960,90] Compile of SampleUI failed. 1 Fatal Issue(s) 0 Warning(s) [in 268 ms] (/Game/Blueprints/Interfaces/SampleUI.SampleUI)
+[2019.05.23-08.23.37:198][634]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.23.37:251][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.05.23-08.23.37:951][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/SampleUI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset" SILENT=true
+[2019.05.23-08.23.37:999][672]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/SampleUI04E6DA604DCED9980EA632B126C20104.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset'
+[2019.05.23-08.23.39:587][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-08.23.39:631][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.05.23-08.23.39:782][764]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_Jimmy9D0E86BF4ED395B660B0B492EF9741ED.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap'
+[2019.05.23-08.25.00:939][493]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.25.00:966][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.25.00:966][493]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.23-08.25.00:972][493]LogPlayLevel: [PlayLevel] Compiling Manager_UI before play...
+[2019.05.23-08.25.01:194][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.05.23-08.25.01:194][493]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2019.05.23-08.25.01:195][493]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:25:01)
+[2019.05.23-08.25.01:195][493]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.25.01:196][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001386s)
+[2019.05.23-08.25.01:197][493]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.25.01:197][493]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2019.05.23-08.25.01:197][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.002045s)
+[2019.05.23-08.25.01:233][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.05.23-08.25.01:242][493]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.25.01:303][493]LogInit: FAudioDevice initialized.
+[2019.05.23-08.25.01:310][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.25.01:342][493]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.25.01:345][493]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.25.01
+[2019.05.23-08.25.01:346][493]LogWorld: Bringing up level for play took: 0.003437
+[2019.05.23-08.25.01:359][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.25.01:362][493]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 0,73
+[2019.05.23-08.25.01:363][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.25.02:540][555]LogBlueprintUserMessages: [Manager_UI_2] Loose_Life_UI
+[2019.05.23-08.25.03:069][582]LogBlueprintUserMessages: [Manager_UI_2] Gain_Life_UI
+[2019.05.23-08.25.03:988][624]LogBlueprintUserMessages: [Manager_UI_2] Loose_Exp_UI
+[2019.05.23-08.25.04:370][640]LogBlueprintUserMessages: [Manager_UI_2] Gain_Exp_UI
+[2019.05.23-08.25.08:971][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.25.08:987][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.25.08:996][795]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.25.09:033][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.25.09:034][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.25.09:112][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.05.23-08.25.09:143][796]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.23-08.26.16:115][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.26.16:454][ 92]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UIEBE21B9E4B2CFE06CC41FD86F1A89EA6.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.26.18:633][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/SampleUI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset" SILENT=true
+[2019.05.23-08.26.18:679][221]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/SampleUI659F0E4345FE505AEFBD8B818EC7AB82.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset'
+[2019.05.23-08.26.19:921][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-08.26.19:963][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.05.23-08.26.20:114][294]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_Jimmy58B6C6A44D76F25575AD3081C02061A0.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap'
+[2019.05.23-08.27.56:353][ 45]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.27.56:544][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.05.23-08.28.46:044][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.28.46:104][  5]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UIE765D26B4FE75AE38C924188D4D41332.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.30.12:507][150]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.30.12:701][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.05.23-08.30.14:490][253]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.30.14:542][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.05.23-08.30.16:271][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-08.30.16:313][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.05.23-08.30.16:470][351]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_JimmyAB4F5BBD43ABBB7A28B92098FED8D4F3.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap'
+[2019.05.23-08.30.17:586][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/SampleUI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset" SILENT=true
+[2019.05.23-08.30.17:632][415]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/SampleUI2017CD2F4FA0BADC406E27A2F083610B.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset'
+[2019.05.23-08.30.18:941][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.30.19:001][492]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UIF94171D342581C40B1688E8097688F5E.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.45.09:941][658]LogSlate: Took 0.011324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.23-08.45.31:231][925]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.45.31:425][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.05.23-08.46.05:695][954]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.46.05:886][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.05.23-08.46.35:051][660]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetTextLibrary::Conv_FloatToText' [Élément introuvable.]
+[2019.05.23-08.46.43:775][179]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.46.43:966][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.05.23-08.46.44:438][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.46.44:504][203]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UI420C88734806AD2DC84DF38465130BC4.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.46.46:376][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-08.46.46:419][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.05.23-08.46.46:589][313]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_Jimmy2409369941C4C69DDC1A12AEF7E93623.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap'
+[2019.05.23-08.47.14:492][974]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.47.14:682][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.05.23-08.47.15:083][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.47.15:147][992]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UIB001BD524DA61933F9989C9AC0B46995.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.47.22:156][409]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.47.22:343][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.05.23-08.47.37:412][303]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.47.37:606][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.05.23-08.47.37:992][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.47.38:057][320]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UIE7F086254C445D89ED4151970E123652.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.47.40:166][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-08.47.40:213][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.05.23-08.47.40:362][445]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_JimmyF1CDBA3A4E09E626ECE9BAA40A64FF43.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap'
+[2019.05.23-08.47.56:632][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.47.56:696][418]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UI13D0DC7D4366BE1B02FA9DA62422A663.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.48.19:800][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.48.19:864][802]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UI823A2F304B1DEB536C140C8F5138AB1B.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.48.27:524][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.48.27:552][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.27:552][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.48.27:552][ 89]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:48:27)
+[2019.05.23-08.48.27:552][ 89]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.48.27:554][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2019.05.23-08.48.27:554][ 89]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.48.27:554][ 89]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.05.23-08.48.27:554][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.002327s)
+[2019.05.23-08.48.27:594][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.05.23-08.48.27:602][ 89]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.48.27:659][ 89]LogInit: FAudioDevice initialized.
+[2019.05.23-08.48.27:668][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.48.27:700][ 89]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.48.27:703][ 89]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.48.27
+[2019.05.23-08.48.27:704][ 89]LogWorld: Bringing up level for play took: 0.003806
+[2019.05.23-08.48.27:717][ 89]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.48.27:725][ 89]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 1,092
+[2019.05.23-08.48.27:726][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.30:452][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.30:462][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.48.30:470][220]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.48.30:514][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.48.30:515][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.30:581][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.05.23-08.48.30:639][221]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.23-08.48.34:723][462]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.48.34:736][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.34:737][462]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.23-08.48.34:745][462]LogPlayLevel: [PlayLevel] Compiling SampleUI before play...
+[2019.05.23-08.48.35:049][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.05.23-08.48.35:049][462]LogPlayLevel: PlayLevel: Blueprint regeneration took 313 ms (1 blueprints)
+[2019.05.23-08.48.35:049][462]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:48:35)
+[2019.05.23-08.48.35:049][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.48.35:051][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001384s)
+[2019.05.23-08.48.35:051][462]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.48.35:051][462]LogPlayLevel: PIE: World Init took: (0.000460s)
+[2019.05.23-08.48.35:051][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.001986s)
+[2019.05.23-08.48.35:093][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.05.23-08.48.35:101][462]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.48.35:154][462]LogInit: FAudioDevice initialized.
+[2019.05.23-08.48.35:162][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.48.35:195][462]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.48.35:198][462]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.48.35
+[2019.05.23-08.48.35:198][462]LogWorld: Bringing up level for play took: 0.002000
+[2019.05.23-08.48.35:211][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.48.35:217][462]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 0,584
+[2019.05.23-08.48.35:217][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.35:848][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.35:850][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.48.35:858][493]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.48.35:894][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.48.35:895][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.35:952][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.05.23-08.48.35:966][494]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.23-08.48.38:081][621]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.48.38:095][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.38:096][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.48.38:096][621]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:48:38)
+[2019.05.23-08.48.38:096][621]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.48.38:097][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
+[2019.05.23-08.48.38:098][621]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.48.38:098][621]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.05.23-08.48.38:098][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.002057s)
+[2019.05.23-08.48.38:138][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.05.23-08.48.38:144][621]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.48.38:198][621]LogInit: FAudioDevice initialized.
+[2019.05.23-08.48.38:205][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.48.38:240][621]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.48.38:244][621]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.48.38
+[2019.05.23-08.48.38:245][621]LogWorld: Bringing up level for play took: 0.003330
+[2019.05.23-08.48.38:257][621]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.48.38:263][621]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy -0,369
+[2019.05.23-08.48.38:263][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.42:130][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.42:143][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.48.42:151][814]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.48.42:194][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.48.42:194][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.48.42:260][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.05.23-08.48.42:272][815]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.23-08.48.59:902][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/SampleUI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset" SILENT=true
+[2019.05.23-08.48.59:945][863]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/SampleUI665591A34F4832C1A3310EAF70D473FA.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset'
+[2019.05.23-08.49.07:330][306]BlueprintLog: New page: Compile SampleUI
+[2019.05.23-08.49.07:383][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.05.23-08.49.07:906][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/SampleUI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset" SILENT=true
+[2019.05.23-08.49.07:947][335]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/SampleUIB04BE73946CFE095AD16E1BCF2D375F8.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/SampleUI.uasset'
+[2019.05.23-08.49.09:576][432]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.49.09:591][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.49.09:591][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.49.09:591][432]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:49:09)
+[2019.05.23-08.49.09:591][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.49.09:592][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001299s)
+[2019.05.23-08.49.09:593][432]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.49.09:593][432]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.05.23-08.49.09:593][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.001927s)
+[2019.05.23-08.49.09:636][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.05.23-08.49.09:642][432]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.49.09:697][432]LogInit: FAudioDevice initialized.
+[2019.05.23-08.49.09:704][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.49.09:744][432]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.49.09:745][432]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.49.09
+[2019.05.23-08.49.09:746][432]LogWorld: Bringing up level for play took: 0.001524
+[2019.05.23-08.49.09:758][432]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.49.09:761][432]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 1,13
+[2019.05.23-08.49.09:762][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.49.12:465][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.49.12:475][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.49.12:484][582]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.49.12:525][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.49.12:526][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.49.12:587][582]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.05.23-08.49.12:606][583]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.23-08.49.49:834][772]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.49.50:026][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.05.23-08.49.50:386][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.49.50:454][791]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UI689EFF0243DA354D5D116B97CA24BD26.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.50.06:749][765]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.50.06:776][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.06:776][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.50.06:776][765]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:50:06)
+[2019.05.23-08.50.06:777][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.50.06:778][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001397s)
+[2019.05.23-08.50.06:778][765]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.50.06:779][765]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2019.05.23-08.50.06:779][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.002122s)
+[2019.05.23-08.50.06:819][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.05.23-08.50.06:827][765]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.50.06:882][765]LogInit: FAudioDevice initialized.
+[2019.05.23-08.50.06:890][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.50.06:917][765]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.50.06:919][765]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.50.06
+[2019.05.23-08.50.06:921][765]LogWorld: Bringing up level for play took: 0.003057
+[2019.05.23-08.50.06:933][765]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.50.06:936][765]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy 0,304
+[2019.05.23-08.50.06:937][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.10:309][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.10:318][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.50.10:328][930]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.50.10:379][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.50.10:380][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.10:440][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.05.23-08.50.10:499][931]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.23-08.50.18:680][421]BlueprintLog: New page: Compile Manager_UI
+[2019.05.23-08.50.18:871][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.05.23-08.50.20:313][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.50.20:383][503]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UIE8C1AF0E4FC91FD9AC4A79B2BCD4C525.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.50.22:044][602]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-08.50.22:068][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.22:068][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-08.50.22:068][602]PIE: New page: PIE session: Level_Jimmy (23 mai 2019 10:50:22)
+[2019.05.23-08.50.22:069][602]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_Jimmy
+[2019.05.23-08.50.22:070][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2019.05.23-08.50.22:071][602]LogAIModule: Creating AISystem for world Level_Jimmy
+[2019.05.23-08.50.22:071][602]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.05.23-08.50.22:071][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_Jimmy.Level_Jimmy to /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy (0.002127s)
+[2019.05.23-08.50.22:111][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.05.23-08.50.22:118][602]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-08.50.22:173][602]LogInit: FAudioDevice initialized.
+[2019.05.23-08.50.22:181][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.50.22:215][602]LogLoad: Game class is 'GameModeBase'
+[2019.05.23-08.50.22:217][602]LogWorld: Bringing World /Game/UEDPIE_0_Level_Jimmy.Level_Jimmy up for play (max tick rate 60) at 2019.05.23-09.50.22
+[2019.05.23-08.50.22:219][602]LogWorld: Bringing up level for play took: 0.003049
+[2019.05.23-08.50.22:231][602]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.23-08.50.22:240][602]PIE: Play in editor start time for /Game/UEDPIE_0_Level_Jimmy -0,392
+[2019.05.23-08.50.22:240][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.26:841][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.26:853][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-08.50.26:861][821]LogSlate: Window 'WorkShop02 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.23-08.50.26:912][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-08.50.26:912][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel' has LevelScriptBlueprint '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy' with GeneratedClass '/Game/Level_Jimmy.Level_Jimmy_C' with ClassGeneratedBy '/Game/Level_Jimmy.Level_Jimmy:PersistentLevel.Level_Jimmy'
+[2019.05.23-08.50.26:984][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.05.23-08.50.27:041][822]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.23-08.50.28:378][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
+[2019.05.23-08.50.28:447][901]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UI8381A0AF46573B89548121A059CF48E5.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
