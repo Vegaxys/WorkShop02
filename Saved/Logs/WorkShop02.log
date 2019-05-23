@@ -901,3 +901,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.23-09.24.35:297][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.23-09.25.33:293][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBasic" FILE="../../../../../../Users/Admin/WorkShop02/Content/Blueprints/EnemyBasic.uasset" SILENT=true
 [2019.05.23-09.25.33:357][196]LogSavePackage: Moving '../../../../../../Users/Admin/WorkShop02/Saved/EnemyBasic30AE796F42FF62218B7380BD1619CD72.tmp' to '../../../../../../Users/Admin/WorkShop02/Content/Blueprints/EnemyBasic.uasset'
+[2019.05.23-09.34.32:751][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.05.23-09.34.32:751][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 0.038
+[2019.05.23-09.34.32:754][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyBasic] ([1] browsable assets)...
+[2019.05.23-09.34.32:754][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyBasic]
+[2019.05.23-09.34.32:754][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBasic" FILE="../../../../../../Users/Admin/WorkShop02/Saved/Autosaves/Game/Blueprints/EnemyBasic_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.23-09.34.32:809][125]LogSavePackage: Moving '../../../../../../Users/Admin/WorkShop02/Saved/EnemyBasic_Auto1A6FFD3274565A800B417D4BF08A6B51C.tmp' to '../../../../../../Users/Admin/WorkShop02/Saved/Autosaves/Game/Blueprints/EnemyBasic_Auto1.uasset'
+[2019.05.23-09.34.32:811][125]LogFileHelpers: Auto-saving content packages took 0.059
+[2019.05.23-10.01.20:168][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBasic" FILE="../../../../../../Users/Admin/WorkShop02/Content/Blueprints/EnemyBasic.uasset" SILENT=true
+[2019.05.23-10.01.20:224][184]LogSavePackage: Moving '../../../../../../Users/Admin/WorkShop02/Saved/EnemyBasicC731DBF743EA98A41ED7CBABC9B48F63.tmp' to '../../../../../../Users/Admin/WorkShop02/Content/Blueprints/EnemyBasic.uasset'
