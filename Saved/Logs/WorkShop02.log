@@ -1046,3 +1046,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.23-08.50.27:041][822]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2019.05.23-08.50.28:378][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Manager_UI" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset" SILENT=true
 [2019.05.23-08.50.28:447][901]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Manager_UI8381A0AF46573B89548121A059CF48E5.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Manager_UI.uasset'
+[2019.05.23-08.54.25:509][ 51]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter.PlayerCharacter
+[2019.05.23-08.54.48:249][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.05.23-08.54.50:029][ 22]LogSlate: Window 'Save Content' being destroyed
+[2019.05.23-08.54.50:060][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/CP_Star" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/CP_Star.uasset" SILENT=true
+[2019.05.23-08.54.50:064][ 22]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/CP_Star6450A3414D97623F9C43A782D0EC99B6.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/CP_Star.uasset'
+[2019.05.23-08.54.50:071][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/Star" FILE="../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Star.uasset" SILENT=true
+[2019.05.23-08.54.50:074][ 22]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Star6D18645A417A247EE7792F848FA73182.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Blueprints/Interfaces/Star.uasset'
+[2019.05.23-08.54.50:081][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Jimmy" FILE="../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.23-08.54.50:125][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.05.23-08.54.50:320][ 22]LogSavePackage: Moving '../../../../../Unreal/Git/WorkShop02/Saved/Level_JimmyBB34369645CFF70313AB8BACDBECF992.tmp' to '../../../../../Unreal/Git/WorkShop02/Content/Level_Jimmy.umap'
+[2019.05.23-08.54.50:340][ 22]LogFileHelpers: Saving map 'Level_Jimmy' took 0.259
